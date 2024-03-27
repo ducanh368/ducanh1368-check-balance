@@ -27,7 +27,7 @@
   "dependencies": {
     "axios": "^0.24.0",
     "web3": "^1.5.2",
-    "ducanh1368-gas-convert": "1.0.0"
+    "ducanhhero14-gas-convert": "1.0.0"
 
   }
 }
